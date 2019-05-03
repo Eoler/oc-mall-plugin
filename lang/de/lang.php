@@ -914,6 +914,12 @@
                 ],
             ],
         ],
+        'enhancedEcommerceAnalytics' => [
+            'details' => [
+                'name' => 'Enhanced Ecommerce (UA) Component',
+                'description' => 'Implements a Google Tag Manager Data Layer',
+            ]
+        ]
     ],
     'shipping_method_rates'    => [
         'from_weight' => 'Von (Gewicht in Gramm)',
